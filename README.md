@@ -1,2 +1,2 @@
-# hierarquiaFuncionarios
-Estrutura de funcionários de uma empresa genérica
+# Clientes & Funcionários
+Estrutura de funcionários e clientes de uma empresa genérica
